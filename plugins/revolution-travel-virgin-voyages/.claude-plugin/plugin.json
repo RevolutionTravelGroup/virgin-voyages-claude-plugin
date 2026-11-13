@@ -1,0 +1,20 @@
+{
+  "name": "revolution-travel-virgin-voyages",
+  "version": "1.0.3",
+  "description": "Live Virgin Voyages sailings and cabin pricing in Canadian dollars from Revolution Travel, a Canadian travel agency. Search sailings, price every cabin type for two on the Essential, Base or Premium fare, and see Virgin's Bar Tab and Revolution Travel's Agency Loot onboard credit for each sailing, with a link to the voyage on Revolution Travel's site.",
+  "author": {
+    "name": "Revolution Travel",
+    "url": "https://virginvoyages.revolutiontravel.ca"
+  },
+  "homepage": "https://virginvoyages.revolutiontravel.ca",
+  "keywords": [
+    "virgin voyages",
+    "cruise",
+    "travel",
+    "canada",
+    "pricing"
+  ],
+  "license": "LicenseRef-Proprietary",
+  "privacyPolicyUrl": "https://virginvoyages.revolutiontravel.ca/privacy",
+  "icon": ".claude-plugin/icon.png"
+}
